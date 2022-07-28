@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/DrawableResource07062022/app/src/main/res/drawable/background_drawable_shape.xml" value="0.536" />
-        <entry key="..\:/DrawableResource07062022/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/DrawableResource07062022/app/src/main/res/drawable/background_edittext_shape.xml" value="0.1475" />
+        <entry key="..\:/DrawableResource07062022/app/src/main/res/drawable/ic_lock.xml" value="0.227" />
+        <entry key="..\:/DrawableResource07062022/app/src/main/res/layout/activity_main.xml" value="0.4" />
       </map>
     </option>
   </component>

@@ -6,6 +6,9 @@
         <entry key="..\:/DrawableResource07062022/app/src/main/res/drawable/background_drawable_shape.xml" value="0.536" />
         <entry key="..\:/DrawableResource07062022/app/src/main/res/drawable/background_drawable_state_list.xml" value="0.232" />
         <entry key="..\:/DrawableResource07062022/app/src/main/res/drawable/background_edittext_shape.xml" value="0.1475" />
+        <entry key="..\:/DrawableResource07062022/app/src/main/res/drawable/background_rating.xml" value="0.184" />
+        <entry key="..\:/DrawableResource07062022/app/src/main/res/drawable/background_rating_empty.xml" value="0.184" />
+        <entry key="..\:/DrawableResource07062022/app/src/main/res/drawable/background_rating_full.xml" value="0.184" />
         <entry key="..\:/DrawableResource07062022/app/src/main/res/drawable/ic_lock.xml" value="0.227" />
         <entry key="..\:/DrawableResource07062022/app/src/main/res/layout/activity_main.xml" value="0.4" />
       </map>
